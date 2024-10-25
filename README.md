@@ -1,8 +1,6 @@
-First commit file for the project repository. This project will be an application of some sort,
-but beyond that I am not too certain on what this project might entail. We might end up doing
-a cross platform application if it isn't that hard to implement, but it will definitely support
-Linux natively
+#True Effort
 
-Possible project idea: A program to help users divy up time for different classes to study based on course load, credit number,
-and other factors. Could possibly make a database where students can tell each other abount the load of certain classes and what 
-to expect in order to study. 
+A website for UW-Madison Students, acts as a database where students can leave reviews of each class and let others know about
+class structure, study time needed per week, the effort needed for the overall class, and much more. This would help students
+know whether their planned schedule would be too much for them or not. The database aims to accurately represent the actual course
+load, because the number of credits the class is worth isn't always the true effort needed for the class.
