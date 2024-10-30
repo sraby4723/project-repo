@@ -1,4 +1,4 @@
-# True Effort
+# Work in Progress
 
 A website for UW-Madison Students, acts as a database where students can leave reviews of each class and let others know about
 class structure, study time needed per week, the effort needed for the overall class, and much more. This would help students
